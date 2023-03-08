@@ -1,0 +1,58 @@
+public boolean checkWin(int[] xs, 
+private boolean checkLine(int[] 
+From Starta University to Everyone 02:20 PM
+public boolean checkWin(int[] xs, int[] ys) {
+        int[] cellCenters = {50, 250, 450};
+
+        int[] countsVertical = new int[3];
+        int[] countsHorizontal = new int[3];
+
+        if (checkLine(ys, cellCenters, countsVertical) || checkLine(xs, cellCenters, countsHorizontal)) {
+            return true;
+        }
+
+        return checkDiagonalAxis(countsVertical) && checkDiagonalAxis(countsHorizontal);
+    }
+
+    private boolean checkLine(int[] coords, int[] cellCenters, int[] arr) {
+        for (int c : coords) {
+            for (int i = 0; i < cellCenters.length; i++) {
+                if (c == cellCenters[i] && ++arr[i] == 3) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+private boolean checkDiagonalAxis(int[] coordsAxis) {
+        for (int i : coordsAxis) {
+            if (i != 1) {
+                return false;
+            }
+        }
+        return true;
+    }
+int[] cXs = new int[crosses.size()];
+                   int[] cYs = new int[crosses.size()];
+
+                   for (int i = 0; i < crosses.size(); i++) {
+                       cXs[i] = crosses.get(i).getX();
+                       cYs[i] = crosses.get(i).getY();
+                   }
+
+                   int[] zXs = new int[zeros.size()];
+                   int[] zYs = new int[zeros.size()];
+
+                   for (int i = 0; i < zeros.size(); i++) {
+                       zXs[i] = zeros.get(i).getX();
+                       zYs[i] = zeros.get(i).getY();
+                   }
+
+                   if (checkWin(cXs, cYs)) {
+                       System.out.println("Crosses win!");
+                   } else if (checkWin(zXs, zYs)) {
+                       System.out.println("Zeros win!");
+                   } else if (gameCount == 9){
+                       System.out.println("DRAW!");
+                   }
+

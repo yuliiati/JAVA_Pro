@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a67a0023-df8a-4c1a-8ca0-7b04d2774ab5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pro3_10.02/src/main/java/org/example/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pro3_10.02/src/main/java/org/example/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/HW_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/out/production/HW_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/HW_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj10_HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proj10_HW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj11Tertyshna/out/production/Proj11Tertyshna/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Proj11Tertyshna/out/production/Proj11Tertyshna/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj11Tertyshna/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj11Tertyshna/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj12Tertyshna/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj12Tertyshna/src/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj12Tertyshna/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj12Tertyshna/src/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj12Tertyshna/src/MatrixG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj12Tertyshna/src/MatrixG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/BodyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/BodyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/HumanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/HumanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/Roots.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/Roots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj14Tertyshna/src/SquaEqua.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj14Tertyshna/src/SquaEqua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/Berlin/Berghain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/Berlin/Berghain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/Berlin/Schwutz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/Berlin/Schwutz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/Kyiv/Closer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/Kyiv/Closer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/Kyiv/K41.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/Kyiv/K41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/package1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/package1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/package1/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/package1/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/package2/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/package2/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj15Tertyshna/src/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj15Tertyshna/src/package2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj17Tertyshna/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj17Tertyshna/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj17Tertyshna/src/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj17Tertyshna/src/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj17Tertyshna/src/Tasks_10_01_23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj17Tertyshna/src/Tasks_10_01_23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj17Tertyshna/src/Tasks_10_01_23/ThisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj17Tertyshna/src/Tasks_10_01_23/ThisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj18Tertyshna/src/Cross.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj18Tertyshna/src/Cross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj18Tertyshna/src/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj18Tertyshna/src/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj18Tertyshna/src/Res.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj18Tertyshna/src/Res.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj18Tertyshna/src/Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj18Tertyshna/src/Zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj19TertyshnaTasks/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj19TertyshnaTasks/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj23XO/src/Cross.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj23XO/src/Cross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj23XO/src/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj23XO/src/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj23XO/src/Res.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj23XO/src/Res.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj23XO/src/Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj23XO/src/Zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj5HW5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj5HW5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/Snail.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/Snail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks2.16.12.22/src/matrix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks2.16.12.22/src/matrix/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IAje0cuoptGP5FCzAtzGjkV6pX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/49160/Desktop/Study/JAVA/Proj5HW5",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\49160\Desktop\Study\JAVA\Proj4Tertyshna\src\homework4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jdk.jpackage.main.Main" />
+      <module name="Java" />
+      <option name="PROGRAM_PARAMETERS" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jdk.javadoc.internal.tool.Main" />
+      <module name="Java" />
+      <option name="PROGRAM_PARAMETERS" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jdk.jpackage.main.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrays" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jdk.jpackage.main.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Proj5HW5.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ComposePreviewRunConfiguration">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="--es composable " />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="androidx.compose.ui.tooling.PreviewActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="true" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <compose-preview-run-configuration composable-fqn="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="Java" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="false" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\49160\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a67a0023-df8a-4c1a-8ca0-7b04d2774ab5" name="Changes" comment="" />
+      <created>1669631373197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669631373197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/HOME WORK/HW3_JAVA" />
+      <path value="$PROJECT_DIR$/Proj2Ter" />
+      <path value="$PROJECT_DIR$/Proj2Tertyshna" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

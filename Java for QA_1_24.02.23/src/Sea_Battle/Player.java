@@ -85,7 +85,7 @@ public class Player {
         }
     }
 
-    private <inputtedRow, inputtedCollumn> boolean isCoordinatesCorrect(inputtedRow, inputtedCollumn, int direction, int decks) {
+//    private <inputtedRow, inputtedCollumn> boolean isCoordinatesCorrect(inputtedRow, inputtedCollumn, int direction, int decks) {
         //TODO HW
         // Блабла
         // Вернуть true, если координаты корректны,
@@ -93,4 +93,4 @@ public class Player {
         // и не выходит за пределы поля.
         // Иначе вернуть false.
     }
-}
+//}
